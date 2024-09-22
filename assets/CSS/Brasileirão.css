@@ -1,0 +1,66 @@
+body{
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+
+a{
+    font-style: italic;
+    color: black;
+}
+
+nav{
+    background-color: rgb(59, 112, 94);
+    padding: 10px;
+    border: black 2px solid ;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+table{
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+th{
+    border-bottom: black solid 2px;
+    border-top: black solid 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+td{
+    border-bottom: black solid 2px;
+    padding: 5px;
+    text-align: center;
+}
+
+.FasedeGrupoL{
+    border-left:  solid blue ;
+}
+
+.Qualific{
+    border-left:  solid orange;
+}
+
+.FasedeGrupoSA{
+    border-left: green solid;
+}
+
+.Rebaixado{
+    border-left: brown solid;
+}
+
+#container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+button{
+   background-color: blue;
+   color: aliceblue;
+   font-size: 20px;
+}
