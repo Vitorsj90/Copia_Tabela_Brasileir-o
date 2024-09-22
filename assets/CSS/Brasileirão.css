@@ -1,5 +1,8 @@
 body{
-    background-color: gray;
+    background-color: rgb(52, 77, 27);
+    background-image: url(/assets/imagens/Brasileirão/Foto\ Campo.jpg);
+    background-repeat: no-repeat;
+    background-size: 2100px;
     font-family: sans-serif;
 }
 
@@ -60,7 +63,8 @@ td{
 }
 
 button{
-   background-color: blue;
-   color: aliceblue;
+   background-color: rgb(67, 184, 93);
+   color: rgb(0, 0, 0);
    font-size: 20px;
+   cursor: pointer;
 }
